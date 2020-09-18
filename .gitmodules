@@ -1,0 +1,6 @@
+[submodule "Node.js"]
+	path = Node.js
+	url = https://github.com/eduardoacastillo/Node.js.git
+[submodule "jquery"]
+	path = jquery
+	url = https://github.com/jquery/jquery.git
